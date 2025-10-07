@@ -1,4 +1,4 @@
-## Hey, I'm Maximilian Benner
+## Hey, I'm Maximilian
 
 I build distributed, scalable, high performance systems. My background is in journalism and media so I am most excited when I can pair my software engineering expertise with the domains I am passionate about: environment, energy, industry, and community service.
 
