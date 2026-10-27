@@ -1,11 +1,7 @@
-## Hey, I'm Max
+## Hey, I'm Maximilian Benner
 
-I lead engineering at [L+R](https://www.levinriegner.com). I work with clients and our team to figure out what to build, then work on everything from application code and integrations to infrastructure and deployment.
+I build distributed, scalable, high performance systems. My background is in journalism and media so I am most excited when I can pair my software engineering expertise with the domains I am passionate about: environment, energy, industry, and community service.
 
-My background is in journalism and media. I like learning unfamiliar domains and understanding how things work. Most of my day-to-day code relates to web applications, distributed systems, AWS, Terraform, and AI integrations.
+None of my work exemplifies this better than [Give a Meal](https://www.give-a-meal.org); A food sharing network utilizing existing restaurant infrastructure to provide meals to people in need. I run [Numbers Office](https://github.com/numbersoffice), where we are in the process of designing hardware terminals to simplify the redemption of free meals.
 
-I also run [Numbers Office](https://github.com/numbersoffice) and work on [Give a Meal](https://www.give-a-meal.org), a food-sharing network that uses existing restaurant infrastructure to provide meals to people in need. We’re currently designing hardware terminals to make redeeming those meals easier.
-
-Interested in environment, energy, industry, and community service. Happy working on both software and the processes around it.
-
-[My (low-tech) blog](https://www.maximilianbenner.com)
+I enjoy learning, learning, learning, collaboration, and perfecting the systems I engage with, both technical and non-technical. You can take a look at my non-code work on [my new site](https://www.maximilianbenner.com).
